@@ -18,8 +18,8 @@ namespace parcial3_Api.Controllers
                 var oVuelos = new Models.vuelos();
 
                 oVuelos.avion = "Carcamo-23";
-                oVuelos.salida = Convert.ToDateTime("2020-02-23 12:25:12");
-                oVuelos.llegada = Convert.ToDateTime("2020-02-23 15:25:12");
+                oVuelos.salida = "2020-02-23 12:25:12";
+                oVuelos.llegada = "2020-02-23 15:25:12";
                 oVuelos.numPasajeros = 150;
 
 
