@@ -1,0 +1,16 @@
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\parcial3_WinForms.exe.config
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\parcial3_WinForms.exe
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\parcial3_WinForms.pdb
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.csproj.AssemblyReference.cache
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.Form1.resources
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.Properties.Resources.resources
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.csproj.GenerateResource.cache
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.csproj.CopyComplete
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.exe
+C:\Users\septi\OneDrive\Documentos\Progra1\parcial3_WinForms\parcial3_WinForms\obj\Debug\parcial3_WinForms.pdb

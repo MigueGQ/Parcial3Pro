@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="aeroParcialModelStoreContainer" CdmEntityContainer="aeroParcialEntities">
+    <EntitySetMapping Name="vuelos">
+      <EntityTypeMapping TypeName="aeroParcialModel.vuelos">
+        <MappingFragment StoreEntitySet="vuelos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="avion" ColumnName="avion" />
+          <ScalarProperty Name="salida" ColumnName="salida" />
+          <ScalarProperty Name="llegada" ColumnName="llegada" />
+          <ScalarProperty Name="numPasajeros" ColumnName="numPasajeros" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

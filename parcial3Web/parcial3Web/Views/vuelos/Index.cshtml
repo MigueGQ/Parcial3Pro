@@ -1,0 +1,51 @@
+﻿@model IEnumerable<parcial3Web.Models.vuelos>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.avion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.salida)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.llegada)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numPasajeros)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.avion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.salida)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.llegada)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numPasajeros)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
